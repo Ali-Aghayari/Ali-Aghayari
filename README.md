@@ -8,9 +8,9 @@
 ### 🔍 **About Me**
 I’m a **B.Sc. Computer Engineering student** at **Sharif University of Technology**, focusing on **generative models**, **multimodal learning**, and **information retrieval**.  
 
-- 🧠 Research Assistant, RIML Lab, Sharif University of Technology — with Prof. Mohammad Hossein Rohban; developing CARINOX (AAAI 2025 submission).  
-- 🌏 Former Research Assistant, CogAI4Sci Lab, National University of Singapore — with Prof. Dianbo Liu; studying compositional representations.  
-- 📈 Former Research Intern, Hong Kong University of Science and Technology — with Prof. Raymond Chi-Wing Wong; improving sequential recommender systems.  
+- 🧠 Research Assistant, RIML Lab, SUT — with Prof. Mohammad Hossein Rohban; developing CARINOX (AAAI 2025 submission).  
+- 🌏 Former Research Assistant, CogAI4Sci Lab, NUS — with Prof. Dianbo Liu; studying compositional representations.  
+- 📈 Former Research Intern, HKUST — with Prof. Raymond Chi-Wing Wong; improving sequential recommender systems.  
 - 🔎 Former Research Intern, L3S Research Center, Leibniz University Hannover — with Prof. Prasenjit Mitra; enhancing CLIP explainability and compositional accuracy.  
 
 ---
