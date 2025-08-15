@@ -8,7 +8,7 @@
 ### 🔍 **About Me**
 I’m a **B.Sc. Computer Engineering student** at **Sharif University of Technology** with research spanning **generative models**, **multimodal learning**, and **information retrieval**.  
 
-- 🧠 **Research Assistant** at [RIML Lab](https://riml.ce.sharif.edu/) with **Prof. Mohammad Hossein Rohban** — working on **compositional text-to-image generation** (CARINOX, ICCV 2025 submission).  
+- 🧠 **Research Assistant** at [RIML Lab](https://riml.ce.sharif.edu/) with **Prof. Mohammad Hossein Rohban** — working on **compositional text-to-image generation** (CARINOX, AAAI 2025 submission).  
 - 🌏 **Research Assistant** at **CogAI4Sci Lab**, **National University of Singapore** — exploring **compositional representations** for multimodal reasoning.  
 - 📈 **Former Research Intern** at **HKUST** with **Prof. Raymond Chi-Wing Wong** — improving sequential recommender systems.  
 - 🔎 **Former Research Intern** at **L3S Research Center** — enhancing CLIP explainability and accuracy on compositional benchmarks.  
