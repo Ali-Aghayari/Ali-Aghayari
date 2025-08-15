@@ -9,14 +9,14 @@
 I’m a **B.Sc. Computer Engineering student** at **Sharif University of Technology** with research spanning **generative models**, **multimodal learning**, and **information retrieval**.  
 
 - 🧠 **Research Assistant** at [RIML Lab](https://riml.ce.sharif.edu/) with **Prof. Mohammad Hossein Rohban** — working on **compositional text-to-image generation** (CARINOX, AAAI 2025 submission).  
-- 🌏 **Former Research Assistant** at **CogAI4Sci Lab**, **National University of Singapore** — exploring **compositional representations** for multimodal reasoning.  
-- 📈 **Former Research Intern** at **HKUST** with **Prof. Raymond Chi-Wing Wong** — improving sequential recommender systems.  
-- 🔎 **Former Research Intern** at **L3S Research Center** — enhancing CLIP explainability and accuracy on compositional benchmarks.  
+- 🌏 **Former Research Assistant** at **CogAI4Sci Lab**, **National University of Singapore** with **Prof. Dianbo Liu** — exploring **compositional representations** for multimodal reasoning.  
+- 📈 **Former Research Intern** at **Hong Kong University of Science and Technology** with **Prof. Raymond Chi-Wing Wong** — improving sequential recommender systems.  
+- 🔎 **Former Research Intern** at **L3S Research Center**, **Leibniz University Hannover** with **Prof. Prasenjit Mitra** — enhancing CLIP explainability and accuracy on compositional benchmarks.  
 
 ---
 
 ### 🎯 **Research Interests**
-- **Compositional Learning** in generative models  
+- **Compositional learning** in generative models  
 - **Inference-time optimization** for text-to-image models  
 - **Multimodal representation learning**  
 - **Information retrieval & recommender systems**  
@@ -25,7 +25,5 @@ I’m a **B.Sc. Computer Engineering student** at **Sharif University of Technol
 
 ### 📫 **Contact**
 - 📧 Email: [ali.agh81ayari@gmail.com](mailto:ali.agh81ayari@gmail.com)  
-- 🌐 Website: [ali-aghayari.github.io](https://ali-aghayari.github.io)  
-- 💻 GitHub: [Ali-Aghayari](https://github.com/Ali-Aghayari)  
 
 ---
